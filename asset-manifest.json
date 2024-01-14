@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/images-finder-praktika/static/css/main.ac53a274.css",
+    "main.js": "/images-finder-praktika/static/js/main.9e5a6f43.js",
+    "index.html": "/images-finder-praktika/index.html",
+    "main.ac53a274.css.map": "/images-finder-praktika/static/css/main.ac53a274.css.map",
+    "main.9e5a6f43.js.map": "/images-finder-praktika/static/js/main.9e5a6f43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac53a274.css",
+    "static/js/main.9e5a6f43.js"
+  ]
+}
